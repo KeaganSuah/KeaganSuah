@@ -7,6 +7,7 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 - Studying Computer Science at University of London.
 - Creating web applications using Python, specifically with Flask and Django.
 - Exploring the fundamentals of software development and design.
+- Interested to Explore the fundamentals of data structures & algorithms.
 
 ## 🌱 Future Goals
 
@@ -17,8 +18,8 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 ## 🚀 Projects
 
 - [E-Commerce Hackathon](https://github.com/KeaganSuah/Hackathon_uol_2023)
-- [Army Role Call System]: Completed.
-- [Army Duty Planner System]: Completed.
+- [Army Role Call System]: Completed .
+- [Army Duty Planner System]: Completed .
 - [Personal Website]: In progress.
 - [Affliate Marketing Website]: In progress.
 
