@@ -29,6 +29,6 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 ## 💬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/keagan-suah/)
-- [Email](suahkeagan@gmail.com)
+- Email - suahkeagan@gmail.com
 
 Feel free to explore my repositories and connect with me! I'm always open to learning and collaborating on exciting projects. 😊
