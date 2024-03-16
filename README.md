@@ -16,9 +16,8 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 - Collaborating on innovative projects that bridge the gap between technology and real-world solutions.
 
 ## 🚀 Projects
-
 - [E-Commerce Hackathon](https://github.com/KeaganSuah/Hackathon_uol_2023)
-- [Army Role Call System]: Completed .
+- [2D Platform Game](https://github.com/KeaganSuah/Cinderella_Game)
 - [Army Duty Planner System]: Completed .
 - [Personal Website]: In progress.
 - [Affliate Marketing Website]: In progress.
