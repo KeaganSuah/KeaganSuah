@@ -16,10 +16,10 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 - Collaborating on innovative projects that bridge the gap between technology and real-world solutions.
 
 ## 🚀 Projects
-- [E-Commerce Hackathon](https://github.com/KeaganSuah/Hackathon_uol_2023)
+- [Portfolio Website](https://github.com/KeaganSuah/KeaganSuah.github.io.git)
 - [2D Platform Game](https://github.com/KeaganSuah/Cinderella_Game)
+- [E-Commerce Hackathon](https://github.com/KeaganSuah/Hackathon_uol_2023)
 - [National Service Project Automation](https://github.com/KeaganSuah/NS-Project-Automation.git)
-- [Portfolio Website]: In progress.
 - [Affliate Marketing Website]: In progress.
 
 ## 📚 Education
