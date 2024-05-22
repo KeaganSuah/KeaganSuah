@@ -21,7 +21,7 @@ I am a Year 1 Computer Science student passionate about turning ideas into web a
 - [Hackathon E-Commerce Website](https://github.com/KeaganSuah/Hackathon_uol_2023)
 - [National Service Project Automation](https://github.com/KeaganSuah/NS-Project-Automation.git)
 - [Affliate Marketing Website]: In progress.
-- [Theme Park Website]: In progress.
+- [Fade In Animation Website (Theme Park)]: In progress.
 - [Parallax Effect Website]: In progress.
 - [Covid 19 Data Visualistion]: In progress.
 
