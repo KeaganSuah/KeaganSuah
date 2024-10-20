@@ -1,6 +1,6 @@
 # Hello, I'm Keagan! 👋
 
-I am a Year 1 Computer Science student passionate about turning ideas into web applications and exploring the realms of machine learning. Here's a bit about me:
+I am a Year 2 Computer Science student passionate about turning ideas into web applications and exploring the realms of machine learning. Here's a bit about me:
 
 ## 🔭 Current Focus
 
